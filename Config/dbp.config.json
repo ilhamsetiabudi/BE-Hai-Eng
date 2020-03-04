@@ -1,0 +1,8 @@
+{
+    "config" :{
+        "user" : "postgres",
+        "database" : "mahasiswa",
+        "password" : "121212",
+        "port" : 5432
+    }
+}
